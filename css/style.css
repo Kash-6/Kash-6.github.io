@@ -332,6 +332,7 @@ h2.title span{
     height: 100%;
     z-index: 2;
     background-size: cover;
+    background-position: -40px top;
     width: 45%;
     border-right: 4px solid rgba(218, 98, 0, 0.863);
 }
